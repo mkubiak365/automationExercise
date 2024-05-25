@@ -1,0 +1,53 @@
+{
+  "userData": {
+      "correctData": {
+        "name": "Robert",
+        "lastName": "Adamo",
+        "company": "Mueller Group",
+        "street": "Spring Gardens",
+        "streetNumber": "43",
+        "state": "Virginia",
+        "city": "Ednaton",
+        "zipCode": "41906",
+        "phoneNumber": "(378) 568-1921",
+        "login": "Robert54321",
+        "email": "validEmail@test12345.com",
+        "password": "test1234"
+      },
+      "incorrectData": {
+        "email": "invalidEmail@test1234.com",
+        "password": "test1234"
+      }
+  },
+  "subjectInfo": {
+    "subject": "Lorem Ipsum",
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "productList": ["Men Tshirt", "Pure Cotton V-Neck T-Shirt", "Green Side Placket Detail T-Shirt", "Premium Polo T-Shirts", "Pure Cotton Neon Green Tshirt", "GRAPHIC DESIGN MEN T SHIRT - BLUE"],
+  "productsInCart": [
+  {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  {
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "quantity": "1",
+    "total": "Rs. 400"
+  }],
+  "singleProductInCart": [
+  {
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "quantity": "4",
+    "total": "Rs. 4000"
+  }
+  ],
+  "brands": ["Polo", "H&M", "Madame", "Mast & Harbour", "Babyhug", "Allen Solly Junior", "Kookie Kids", "Biba"],
+  "brandKookieKidsProducts": ["Full Sleeves Top Cherry - Pink", "Little Girls Mr. Panda Shirt", "Cotton Mull Embroidered Dress"],
+  "brandBibaProducts": ["Blue Cotton Indie Mickey Dress", "Long Maxi Tulle Fancy Dress Up Outfits -Pink", "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi", "Cotton Silk Hand Block Print Saree", "Rust Red Linen Saree"]
+
+
+}
